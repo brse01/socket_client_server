@@ -1,10 +1,8 @@
 
 
 # Compile
-gcc Server.c -o Server<br/>
-gcc Client.c -o Client
+gcc server.c && ./a.out<br/>
+gcc client.c -o client && ./client
 
-# Run
-$ ./Server 1234<br/>
-$ ./Client 1234
+
 
